@@ -5,6 +5,6 @@ Los lenguajes a implementar fue html y css con direccionamiento a paginas intern
 <br>
 <b>El enlace de la pagina es la siguiente:</b>
 <br>
-[Acceder a Pagina web ](https://perlasantellanes.github.io/tributo-leslie-cheung/)
+[Acceder a Pagina web ](https://perlasantellanes.github.io/restaurante/)
 <br>
 
